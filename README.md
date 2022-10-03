@@ -14,10 +14,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/kurokurome/product-preview-card-component
-/)
-- Live Site URL: [Github Pages](https://kurokurome.github.io/product-preview-card-component
-/)
+- Solution URL: [Github Repo](https://github.com/kurokurome/product-preview-card-component/)
+- Live Site URL: [Github Pages](https://kurokurome.github.io/product-preview-card-component/)
 
 ## My process
 
